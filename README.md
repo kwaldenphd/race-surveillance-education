@@ -7,7 +7,7 @@ This tutorial is licensed under a <a href="http://creativecommons.org/licenses/b
 
 # Lab Materials
 
-
+[Lab notebook template](https://docs.google.com/document/d/16Gu3MKXMz2FCqcxXXeSmiz1tQGTP62cdtsZsoHpVWJY/copy) (Google Doc)
 
 # Background
 
@@ -33,12 +33,14 @@ We'll start by focusing on the "Cameras in the Classroom" report. A few discussi
 Our readings for this week challenge us to think expansively about what surveillance looks like and how it shows up particularly in K12 education. Thinking across these readings...
 - What stood out to you in terms of how these articles present or discuss surveillance? Anything that was particularly challenging, surprising, eye-opening, etc?
 - Where and how the intersection of race and surveillance shows up
-- What kinds of "othering" happens via surveillance technologies in education, thinking about race as well as gender, sexuality, ability and disability, neurotypically and neurodivergence, socio-economic class, cultural and linguistic identity, religious practice, etc.
+- What kinds of "othering" happens via surveillance technologies in education, thinking about race as well as gender, sexuality, ability and disability, neurotypicality and neurodivergence, socio-economic class, cultural and linguistic identity, religious practice, etc.
 - Connections with previous class content/discussions
 - Other questions/comments/observations
 
 Some of our content for this week- specifically the "Cameras in the Classroom" report and Coshandra Dillard's *Learning for Justice* article- make specific policy recommendations or ask us to imagine alternative frameworks and possibilities for surveillance in K12 education.
-- DISCUSSION QUESTION PLACEHOLDER
+- What stood out to you from this article
+- Connections with other readings from this week and/or previous class discussions
+- Other questions/comments/observations
 
 # Lab Options
 
@@ -46,7 +48,7 @@ The lab procedure document includes four (4) different prompt options. Folks can
 
 ## Prompt 1: School Policies/Regulations
 
-As we see across this week's readings, policies around racialized surveillance tech (facial recognition, SROs, etc) is often highly localized and coordinated at the district/community level.
+As we see across this week's readings, policies around racialized surveillance tech (facial recognition, SROs, etc) are often highly localized and coordinated at the district/community level.
 
 For example, the South Bend Community School Corporation has been having an ongoing conversation around the role of SROs leading up to the approval of an agreement in December 2021. Sources of related information include...
 - [SBCSC website](http://sb.school/)
@@ -221,4 +223,12 @@ If looking at investigative journalism work:
   * Whose perspectives or voices are highlighted?
 - Other thoughts/comments/questions/observations.
 
-# Lab Notebook Materials
+# Lab Notebook Components
+
+[Lab notebook template](https://docs.google.com/document/d/16Gu3MKXMz2FCqcxXXeSmiz1tQGTP62cdtsZsoHpVWJY/copy) (Google Doc)
+
+The lab notebook consists of a narrative that documents and describes your experience working through this lab.
+
+Folks can take notes on the reading-based questions and then focus on the questions/topics for the specific prompt you choose. 
+
+If working collaboratively, reflection should include comments from each member of the group. These can be combined in a single notebook or submitted individually along with work completed collaboratively.
