@@ -5,6 +5,16 @@ This tutorial is licensed under a <a href="http://creativecommons.org/licenses/b
 
 ## Table of Contents
 
+- [Lab Materials](#lab-materials)
+- [Background](#background)
+- [Lab Options](#lab-options)
+  * [Prompt #1: School Policies/Regulations](#prompt-1-school-policiesregulations)
+  * [Prompt #2: Tech Deep Dive (Company or Product)](#prompt-2-tech-deep-dive-company-or-product)
+  * [Prompt #3: Surveillance Tech in Higher Education](#prompt-3-surveillance-tech-in-higher-education)
+  * [Prompt #4: Further Background Research](#prompt-4-further-background-research)
+- [Lab Notebook Components](#lab-notebook-components)
+
+
 # Lab Materials
 
 [Lab notebook template](https://docs.google.com/document/d/16Gu3MKXMz2FCqcxXXeSmiz1tQGTP62cdtsZsoHpVWJY/copy) (Google Doc)
@@ -127,7 +137,7 @@ If looking at a specific company:
 - Connections with this week's readings and/or previous course content?
 - Other observations/questions/comments
 
-## Prompt 3: Digital Surveillance in Higher Education
+## Prompt 3: Surveillance Tech in Higher Education
 
 The kinds of surveillance technologies we're looking at this week aren't unique to K12 education- they also show up on college campuses in a variety of contexts.
 
