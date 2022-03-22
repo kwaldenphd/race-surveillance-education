@@ -38,7 +38,7 @@ Our readings for this week challenge us to think expansively about what surveill
 - Other questions/comments/observations
 
 Some of our content for this week- specifically the "Cameras in the Classroom" report and Coshandra Dillard's *Learning for Justice* article- make specific policy recommendations or ask us to imagine alternative frameworks and possibilities for surveillance in K12 education.
-- 
+- DISCUSSION QUESTION PLACEHOLDER
 
 # Lab Options
 
